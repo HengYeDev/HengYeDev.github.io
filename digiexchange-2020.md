@@ -1,4 +1,5 @@
  # Team Tournament 2020
+ 
  ## September 5, 2020
  
  Security Innovation hosted a team event on their DigiExchange cyber range, one of their hardest ones. 
@@ -24,4 +25,7 @@
  
  At the end, my team (Exquisite Execution) got in second place!
  
+ Links:
+ 
+ * [Security Innovation blog post](https://blog.securityinnovation.com/team-tournament-2020)
  
