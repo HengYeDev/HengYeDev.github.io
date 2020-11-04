@@ -1,1 +1,3 @@
 theme: jekyll-theme-hacker
+title: Heng Ye's Logs
+description: cat /var/log/heng_ye.log
