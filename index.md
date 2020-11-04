@@ -1,7 +1,7 @@
-# Projects
+## Projects
 
 * [UBports Ubuntu Touch port to Sony Xperia 10 (kirin)](kirin-ubports-docs)
 
-# Articles
+## Articles
 
 * [Team Tournament 2020 - DigiExchange remarks](digiexchange-2020)
