@@ -1,7 +1,5 @@
  # Team Tournament 2020
- 
- ## September 5, 2020
- 
+  
  Security Innovation hosted a team event on their DigiExchange cyber range, one of their hardest ones. 
  It was a really nice free learning experience and had a large variety of challenges including RE,
  injection, OSINT, and XSS. Unlike their easier CTFs such as Shadow Bank, there were filters in the challenges that had to be bypassed.
