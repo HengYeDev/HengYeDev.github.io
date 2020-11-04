@@ -1,1 +1,0 @@
-# Defense of Linux Phones
