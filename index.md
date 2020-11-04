@@ -1,6 +1,6 @@
 # Projects
 
-* UBports Ubuntu Touch port to sony_kirin (Xperia 10 i3123 i3113) - docs coming soon!
+* [UBports Ubuntu Touch port to Sony Xperia 10 (kirin)](kirin-ubports-docs)
 
 # Articles
 
