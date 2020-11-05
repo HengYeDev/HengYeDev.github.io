@@ -1,5 +1,3 @@
-# Homepage
-
 ## Projects
 
 * [UBports Ubuntu Touch port to Sony Xperia 10 (kirin)](kirin-ubports-docs)
