@@ -10,5 +10,8 @@ PinePhone, priced at $199 for the convergence edition, the Librem 5, currently p
 
 ## Specifications of Linux phones
 
-[ Name | RAM | Storage | CPU |
-| PinePhone | 3GB | 32GB | Allwinner A64|
+| Name          | RAM           | CPU   |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
