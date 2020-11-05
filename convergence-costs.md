@@ -10,11 +10,11 @@ PinePhone, priced at $199 for the convergence edition, the Librem 5, currently p
 
 ## Specifications of Linux phones
 
-| Name          | RAM           | CPU                                      | Storage |
-| ------------- |---------------| -----------------------------------------|---------|
-| PinePhone     | 3GB           | 64-bit Quad-core 1.2 GHz ARM Cortex A-53 |32GB     |
-| Librem 5      | 3GB           | i.MX8M (Quad Core) max. 1.5GHz           |32GB     |
-| Fxtec Pro1X   | 8GB           | MSM8998 Octa-core 2.45 Ghz               |256GB    |
+| Name          | RAM           | CPU                                      | Storage | Price |
+| ------------- |---------------| -----------------------------------------|---------|-------|
+| PinePhone     | 3GB           | 64-bit Quad-core 1.2 GHz ARM Cortex A-53 |32GB     |$199   |
+| Librem 5      | 3GB           | i.MX8M (Quad Core) max. 1.5GHz           |32GB     |$749   |
+| Fxtec Pro1X   | 8GB           | MSM8998 Octa-core 2.45 Ghz               |256GB    |$749   |
 
 ## Specifications of laptop docks
 
