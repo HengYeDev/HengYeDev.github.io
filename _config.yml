@@ -1,6 +1,10 @@
 theme: jekyll-theme-hacker
 title: Heng Ye's Logs
 description: cat /var/log/heng_ye.log
+tagline: Heng Ye's personal website
+twitter:
+  username: HengYeDev
+  card: summary
 github:
   repository_url: https://github.com/hengyedev
   
