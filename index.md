@@ -4,6 +4,5 @@
 
 ## Articles
 
-- [The Costs of Convergence WIP](convergence-costs)
 * [Team Tournament 2020 - DigiExchange remarks](digiexchange-2020)
 * [Defense of Linux Phones](linux-phones-defense)
