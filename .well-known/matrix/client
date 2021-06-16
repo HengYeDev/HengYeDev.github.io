@@ -1,5 +1,8 @@
 {
-  "m.homeserver": {
-    "base_url": "https://chat.yeheng.org"
-  }
+    "m.homeserver": {
+        "base_url": "https://heng.ems.host"
+    },
+    "m.identity_server": {
+        "base_url": "https://vector.im"
+    }
 }
