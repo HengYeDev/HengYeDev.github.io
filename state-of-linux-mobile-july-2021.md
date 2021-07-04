@@ -22,6 +22,17 @@ Here is an incomplete list of reasons why you should try Linux on your phone:
 * If you want to try out different user interfaces
 * If you want "convergence" - plugging in your device into a monitor to use it as a desktop computer
 
+## Why NOT run Linux on your phone?
+
+Linux mobile devices are not for everyone. Here are some reasons why you might not want to use one:
+
+* You expect a stable platform that doesn't crash a lot
+* You want to use many apps that are not open source
+* You expect support for the software
+* You don't like tinkering and patching things
+* You don't want to type a lot of commands
+* You're not OK with purchasing hardware that's relatively expensive compared to mainstream phones
+
 ## Hardware
 
 There are now more hardware than ever that can run traditional Linux environments. For a phone or tablet to be able to run traditional Linux, it is 
@@ -35,7 +46,13 @@ operating systems for them, making them good for development purposes. They run 
 
 It's now quite easy to obtain a PinePhone. Pine64 usually has them in stock and ships them in batches ([see availablity](https://www.pine64.org/availability-and-shipping-status/)] and [Ameridroid](https://ameridroid.com/products/pinephone) often has them in stock too.
 
-It's harder to obtain a Librem 5 today. They are only available from Purism and there have been many delays. There are two versions: the regular Librem 5 and the Librem 5 USA. The USA version is at quite a high price and I honestly don't see why I should buy a low powered device at that cost. 
+It's harder to obtain a Librem 5 today. They are only available from Purism and there have been many delays. There are two versions: the regular Librem 5 and the Librem 5 USA. The USA version is at quite a high price and I honestly don't see why I should buy a low powered device at that cost. The regular Librem 5 is also rather expensive (about three times the price of the PinePhone) but it's slightly faster with a faster CPU and GPU.
+
+### Designed to run Android
+
+Many people have ported Linux-based OSes to phones designed to run Android. There are numerous options available, however the amount of operating systems available are limited due to the greater difficulty of porting to these devices. However, these operating systems are usually rather stable compared since they mostly use the kernel and firmware provided by the device manufacturer in their Android images. You can determine if an Android phone can run a Linux distribution using a search engine. You may need to look at each distribution's websites individually to determine this. 
+
+You can also port the OS of your choice to an Android device of your choice if you want to tinker with low level things.
 
 
 
