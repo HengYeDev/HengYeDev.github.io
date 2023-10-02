@@ -10,7 +10,7 @@
 
 ### Solution
   Open the link and search for 'bctf{' in Inspect Element.
-  
+  ![Inspect Element](triple-d-columbus-1.png)
 
 ### Flag
   'bctf{In$pecT_eLemEnt_Is_prEttY_c00L_ayE?}'
